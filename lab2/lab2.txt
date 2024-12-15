@@ -1,0 +1,156 @@
+1. Obtain a tensor containing only zeros from the given tensor
+import torch
+pattern = torch.tensor([
+    [1, 1, 1, 1],
+    [1, 0, 0, 1],
+    [1, 0, 0, 1],
+    [1, 1, 1, 1]])
+zero_tensor = torch.zeros_like(pattern)
+print(zero_tensor)
+
+
+2. Create a NumPy array of shape (3, 2, 3) using PyTorch
+import torch
+tensor = torch.rand(3, 2, 3)
+numpy_array = tensor.numpy()
+print(numpy_array.shape)
+
+3. Create two random (2, 3, 3) tensors and find the max, min, mean, std of their product
+import torch
+tensor_a = torch.rand(2, 3, 3)
+tensor_b = torch.rand(2, 3, 3)
+product = torch.bmm(tensor_a, tensor_b)
+max_val = product.max()
+min_val = product.min()
+mean_val = product.mean()
+std_val = product.std()
+print("Max:", max_val)
+print("Min:", min_val)
+print("Mean:", mean_val)
+print("Std:", std_val)
+
+4. Convert a 16x16 tensor into a 1x256 tensor
+import torch
+tensor_16x16 = torch.rand(16, 16)
+tensor_1x256 = tensor_16x16.view(1, -1)
+print(tensor_1x256.shape)
+
+
+5. Find the coefficients that best model the linear relationship Y = ax + b (Linear Regression)
+import torch
+x = torch.tensor([1, 2, 3, 4, 5], dtype=torch.float32)
+y = torch.tensor([2, 3, 5, 7, 11], dtype=torch.float32)
+A = torch.vstack([x, torch.ones(len(x))]).T
+coefficients, _ = torch.lstsq(y, A)
+a, b = coefficients[:2]
+print("a:", a.item(), "b:", b.item())
+
+6. Perform element-wise multiplication and addition on two 3x3 tensors
+import torch
+tensor_a = torch.tensor([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+tensor_b = torch.tensor([[9, 8, 7], [6, 5, 4], [3, 2, 1]])
+elementwise_mul = tensor_a * tensor_b
+elementwise_add = tensor_a + tensor_b
+print("Element-wise Multiplication:")
+print(elementwise_mul)
+print("Element-wise Addition:")
+print(elementwise_add)
+
+7. Stack two 2x3 tensors along a new dimension
+import torch
+tensor_a = torch.tensor([[1, 2, 3], [4, 5, 6]])
+tensor_b = torch.tensor([[7, 8, 9], [10, 11, 12]])
+stacked_tensor = torch.stack((tensor_a, tensor_b), dim=0)
+print(stacked_tensor)
+
+8. Create a 1D tensor with values ranging from 0 to 9
+import torch
+tensor_1d = torch.arange(0, 10)
+print(tensor_1d)
+
+9. Perform operations on tensors of different shapes: 2x3 and 1x3 tensor using broadcasting
+import torch
+tensor_a = torch.tensor([[1, 2, 3], [4, 5, 6]])
+tensor_b = torch.tensor([[10, 20, 30]])
+result_add = tensor_a + tensor_b
+print("Result of Addition (A + B):")
+print(result_add)
+
+10.Reshape a 1D tensor with 12 elements into a 3x4 matrix.  give answer without comments
+import torch
+tensor_1d = torch.arange(12)
+tensor_reshaped = tensor_1d.view(3, 4)
+print(tensor_reshaped)
+
+11. Compute the sum of all elements in a 5x5 tensor.
+tensor = torch.rand(5, 5)
+sum_elements = torch.sum(tensor)
+
+12. Transpose a 3x4 tensor to a 4x3 tensor.
+tensor = torch.rand(3, 4)
+transposed_tensor = tensor.T
+
+13. Normalize a 1D tensor so that its values are in the range [0, 1].
+tensor = torch.rand(10)
+normalized_tensor = (tensor - tensor.min()) / (tensor.max() - tensor.min())
+
+14. Concatenate two tensors of shape (2, 3) along dimension 1.
+tensor1 = torch.rand(2, 3)
+tensor2 = torch.rand(2, 3)
+concatenated = torch.cat((tensor1, tensor2), dim=1)
+
+15. Apply a ReLU activation function to a 2D tensor.
+tensor = torch.rand(2, 3)
+relu = torch.nn.ReLU()
+activated_tensor = relu(tensor)
+
+16. Create a tensor of shape (5, 5) with random integers between 0 and 10, and compute the median of each row.
+tensor = torch.randint(0, 11, (5, 5))
+median_per_row = tensor.median(dim=1).values
+
+17. Perform element-wise division of two tensors with shapes (3, 2) and (2, 3) using broadcasting.
+tensor1 = torch.randn(3, 2)
+tensor2 = torch.randn(2, 3)
+result = tensor1[:, None] / tensor2
+
+18. Initialize a tensor of shape (2, 4) with values from a uniform distribution and perform a matrix multiplication with a (4, 3) tensor.
+tensor1 = torch.rand(2, 4)
+tensor2 = torch.rand(4, 3)
+result = torch.mm(tensor1, tensor2)
+
+19. Create a tensor of shape (2, 2, 3) with values ranging from 0 to 8, and perform a 2D convolution with a (2, 2) kernel.
+import torch.nn as nn
+tensor = torch.randint(0, 9, (2, 2, 3), dtype=torch.float)
+kernel = torch.ones(2, 2, dtype=torch.float)
+conv = nn.Conv2d(in_channels=2, out_channels=1, kernel_size=2, stride=1, padding=0, bias=False)
+conv.weight.data = kernel.unsqueeze(0).unsqueeze(0)
+result = conv(tensor.unsqueeze(0))
+
+20. Convert a tensor with shape (4, 2) into a 2D NumPy array of shape (2, 4).
+tensor = torch.rand(4, 2)
+numpy_array = tensor.numpy().T
+
+
+1. Obtain a tensor containing only zeros from the given tensor
+2. Create a NumPy array of shape (3, 2, 3) using PyTorch
+3. Create two random (2, 3, 3) tensors and find the max, min, mean, std of their product
+4. Convert a 16x16 tensor into a 1x256 tensor
+5. Find the coefficients that best model the linear relationship Y = ax + b (Linear Regression)
+6. Perform element-wise multiplication and addition on two 3x3 tensors
+7. Stack two 2x3 tensors along a new dimension
+8. Create a 1D tensor with values ranging from 0 to 9
+9. Perform operations on tensors of different shapes: 2x3 and 1x3 tensor using broadcasting
+10. Reshape a 1D tensor with 12 elements into a 3x4 matrix.  give answer without comments
+11. Compute the sum of all elements in a 5x5 tensor.
+12. Transpose a 3x4 tensor to a 4x3 tensor.
+13. Normalize a 1D tensor so that its values are in the range [0, 1].
+14. Concatenate two tensors of shape (2, 3) along dimension 1.
+15. Apply a ReLU activation function to a 2D tensor.
+16. Create a tensor of shape (5, 5) with random integers between 0 and 10, and compute the median of each row.
+17. Perform element-wise division of two tensors with shapes (3, 2) and (2, 3) using broadcasting.
+18. Initialize a tensor of shape (2, 4) with values from a uniform distribution and perform a matrix multiplication with a (4, 3) tensor.
+19. Create a tensor of shape (2, 2, 3) with values ranging from 0 to 8, and perform a 2D convolution with a (2, 2) kernel.
+20. Convert a tensor with shape (4, 2) into a 2D NumPy array of shape (2, 4).
+
+
+

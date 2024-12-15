@@ -1,0 +1,6398 @@
+[
+    {
+        "mass_density": 0.99007,
+        "spirit": 12.7
+    },
+    {
+        "mass_density": 0.9944,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99746,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9997,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99613,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99346,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99585,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.99584,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99745,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99596,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99698,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99357,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9928,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.99635,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9999,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99939,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 1.00012,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99798,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9916,
+        "spirit": 14.0
+    },
+    {
+        "mass_density": 0.99352,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99712,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99568,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.999,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 1.0008,
+        "spirit": 8.4
+    },
+    {
+        "mass_density": 0.99519,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99496,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99534,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99745,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99235,
+        "spirit": 13.1
+    },
+    {
+        "mass_density": 0.99494,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99685,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99294,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99865,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9949,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99577,
+        "spirit": 13.2
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99787,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99512,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9924,
+        "spirit": 13.0
+    },
+    {
+        "mass_density": 0.99064,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99408,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.994,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99556,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99632,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99796,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99555,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 1.0004,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 13.3
+    },
+    {
+        "mass_density": 0.99828,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9935,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99688,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9983,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99822,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99562,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99724,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99824,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9934,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9957,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.994,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99743,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9943,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.99639,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99379,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99471,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9948,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99598,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.99528,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.99728,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 1.00315,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99547,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99842,
+        "spirit": 9.233333333
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99524,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99616,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99444,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99669,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99492,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99914,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99572,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99668,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9941,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99314,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 1.0001,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99718,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9952,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.99786,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99586,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.99818,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99748,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99572,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99545,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99664,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99566,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99636,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99823,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99494,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99675,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99768,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99608,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99633,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99788,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99702,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9946,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9993,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99734,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99376,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99641,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9949,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99332,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9949,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99572,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 1.0006,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99674,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.9952,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99658,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99157,
+        "spirit": 13.6
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.99627,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 1.0001,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.0015,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99706,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99612,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99713,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.0014,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9938,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99438,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9975,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 1.0014,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99294,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99712,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99402,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99652,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 1.0006,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9992,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99462,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9957,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99378,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99774,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99694,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99888,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99701,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99581,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99718,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 1.0014,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99682,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99613,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99814,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9916,
+        "spirit": 14.0
+    },
+    {
+        "mass_density": 0.99484,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9948,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99652,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99746,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99721,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9954,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99636,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9951,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 1.0021,
+        "spirit": 12.7
+    },
+    {
+        "mass_density": 0.99448,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99736,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.99728,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99408,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99648,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99672,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99388,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99546,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 1.00005,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9948,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9922,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99576,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99575,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99754,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99588,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99738,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99491,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99746,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9952,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99656,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99534,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99522,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99258,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9917,
+        "spirit": 14.0
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99586,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99448,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99408,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.99768,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99508,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99664,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9997,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99725,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99609,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99714,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 1.0026,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99348,
+        "spirit": 11.95
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99464,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9977,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99606,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99774,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.99719,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9977,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99543,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99787,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99675,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99656,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99745,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 1.0006,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99556,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99764,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99628,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99842,
+        "spirit": 9.25
+    },
+    {
+        "mass_density": 0.99474,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99765,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99376,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99362,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 1.0004,
+        "spirit": 13.0
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99341,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99384,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99418,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.99628,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99615,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99787,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99746,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99256,
+        "spirit": 12.9
+    },
+    {
+        "mass_density": 0.99514,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99531,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99613,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99356,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.99865,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9947,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99735,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99346,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 1.0003,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99684,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.00242,
+        "spirit": 8.8
+    },
+    {
+        "mass_density": 0.99634,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99643,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.99154,
+        "spirit": 14.0
+    },
+    {
+        "mass_density": 0.99514,
+        "spirit": 10.55
+    },
+    {
+        "mass_density": 0.99717,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99627,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99323,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.99786,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99331,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99738,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99702,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.99734,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9983,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99396,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99824,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.99685,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99669,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99565,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99788,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99612,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99622,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99554,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99747,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.99252,
+        "spirit": 13.3
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9948,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99587,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 1.00369,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9951,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99738,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99668,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99922,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99258,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99735,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99615,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99378,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99634,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.99852,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99785,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99489,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99484,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99736,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99745,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99586,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99616,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99642,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99524,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 1.0004,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99578,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.99573,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99736,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99603,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99522,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99242,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.999,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99328,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 12.7
+    },
+    {
+        "mass_density": 0.99458,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 1.0004,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99565,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99543,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99654,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99708,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99606,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 1.0015,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9934,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.99616,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99542,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99476,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99516,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9943,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99478,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9946,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99517,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99385,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99683,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99676,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99358,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9992,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99518,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99236,
+        "spirit": 10.55
+    },
+    {
+        "mass_density": 0.99782,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99864,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99677,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99745,
+        "spirit": 9.55
+    },
+    {
+        "mass_density": 0.99584,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99182,
+        "spirit": 13.56666667
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99665,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99615,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99748,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99892,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99735,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 1.0003,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99566,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99516,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99636,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99467,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.99685,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99622,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 13.4
+    },
+    {
+        "mass_density": 0.99616,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99685,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99746,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.00015,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99396,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99514,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99803,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.0008,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99488,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99524,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9947,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99547,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99761,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99736,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9929,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.99402,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99458,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 1.001,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99783,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99564,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9932,
+        "spirit": 12.9
+    },
+    {
+        "mass_density": 0.99499,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99685,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99638,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99518,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99935,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99592,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99352,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.99593,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99378,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99458,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99504,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99675,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99744,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 1.0004,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9993,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99518,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 1.00289,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99504,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.99502,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99622,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99498,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99546,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99677,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.99596,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99371,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.99586,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99356,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.99655,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99536,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99686,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99706,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99191,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99536,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99516,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99782,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99938,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99878,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99554,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99438,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99531,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.99965,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99242,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.99522,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 1.00025,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99758,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99552,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.9985,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99689,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 1.0006,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99374,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99264,
+        "spirit": 12.9
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99524,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9957,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99855,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99815,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9975,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99692,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 1.0022,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99322,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.99834,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99746,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99483,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9952,
+        "spirit": 13.3
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99814,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99552,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99745,
+        "spirit": 9.55
+    },
+    {
+        "mass_density": 0.99501,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99769,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.999,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99628,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99516,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99358,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.99007,
+        "spirit": 12.7
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9952,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 1.00015,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99659,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99918,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99354,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99472,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99791,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9997,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99783,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99576,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99633,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99514,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99732,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9952,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99546,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99471,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99577,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99701,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99784,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 1.0004,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9989,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99286,
+        "spirit": 13.0
+    },
+    {
+        "mass_density": 0.99489,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99604,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99619,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99467,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99402,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9946,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9927,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99614,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.99608,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99672,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9915,
+        "spirit": 13.5
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99713,
+        "spirit": 9.566666667
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99386,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.99818,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99506,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.99541,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.999,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99514,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99459,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99779,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99623,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99549,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99612,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99488,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99744,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99557,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99815,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99306,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.99371,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.99605,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99675,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99689,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9924,
+        "spirit": 12.9
+    },
+    {
+        "mass_density": 0.99565,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 1.0001,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99845,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99439,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.9934,
+        "spirit": 13.1
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99623,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99509,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99648,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99612,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99534,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99613,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99614,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99975,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99774,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 1.001,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9952,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99901,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.9983,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99588,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99672,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 1.0014,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99756,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9992,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9983,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99558,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99395,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99336,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99604,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99722,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99572,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99534,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99695,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99836,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99729,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9977,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99414,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.999,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99318,
+        "spirit": 12.7
+    },
+    {
+        "mass_density": 0.9997,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99798,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9936,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99735,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99545,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99577,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.99462,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99636,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99625,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99419,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99859,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99668,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99572,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99747,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 1.001,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99578,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99182,
+        "spirit": 13.6
+    },
+    {
+        "mass_density": 0.99803,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99624,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99558,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99654,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99356,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99557,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9922,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 1.0021,
+        "spirit": 12.7
+    },
+    {
+        "mass_density": 0.99638,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99638,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99616,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99914,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99346,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9975,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9947,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99622,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99629,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99672,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99976,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99629,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99585,
+        "spirit": 9.05
+    },
+    {
+        "mass_density": 0.99374,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.9993,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99735,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 9.95
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99648,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.999,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 1.0014,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99656,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99661,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 1.00315,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9947,
+        "spirit": 14.0
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99734,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99526,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99704,
+        "spirit": 10.03333333
+    },
+    {
+        "mass_density": 0.99568,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 1.0004,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9946,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99564,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99668,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99562,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.99692,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99523,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.99617,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99818,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 8.7
+    },
+    {
+        "mass_density": 0.99529,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.99699,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9957,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99553,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99419,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99516,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 1.0008,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9997,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 1.0026,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99498,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99534,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99582,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99655,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9983,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9992,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.99162,
+        "spirit": 12.9
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99647,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99444,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99508,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99642,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99572,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99914,
+        "spirit": 8.5
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99704,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 1.0001,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99689,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99634,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99832,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 1.00024,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99438,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99388,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.9997,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99502,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 1.0018,
+        "spirit": 13.0
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99674,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99521,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99572,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99685,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.001,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.9953,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.0014,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99532,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99476,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99888,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99615,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9985,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99655,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.99472,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99545,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99686,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99572,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99544,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99612,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99552,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99316,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99576,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99358,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9992,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99915,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99651,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99566,
+        "spirit": 11.06666667
+    },
+    {
+        "mass_density": 0.99334,
+        "spirit": 12.6
+    },
+    {
+        "mass_density": 1.00005,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99588,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99694,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99615,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99739,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9953,
+        "spirit": 12.6
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99801,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99752,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99694,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99732,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99743,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99709,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99693,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9948,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.99854,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99702,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99689,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99786,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99605,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99331,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99437,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99586,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99803,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99716,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99417,
+        "spirit": 12.7
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99546,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99603,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9989,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99824,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99554,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 8.7
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99704,
+        "spirit": 10.03333333
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9957,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9942,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99396,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99774,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99892,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99693,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99666,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9975,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99064,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99428,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99558,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 8.4
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99528,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9944,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9951,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99354,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.99616,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99801,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.99364,
+        "spirit": 12.6
+    },
+    {
+        "mass_density": 0.9983,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9995,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9946,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 1.0006,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.99488,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99621,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99576,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99479,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99642,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99456,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.99438,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99769,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9983,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99667,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9912,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99652,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99448,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99925,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.99525,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 12.6
+    },
+    {
+        "mass_density": 0.99362,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99652,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99855,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99712,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99402,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99598,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99712,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9928,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99488,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99605,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99768,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9997,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9948,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99516,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9948,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 1.00369,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9948,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99508,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99724,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99578,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99692,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99649,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.99678,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99647,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99627,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99836,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99484,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99808,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9908,
+        "spirit": 14.0
+    },
+    {
+        "mass_density": 0.99738,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9952,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99316,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.99394,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 1.00242,
+        "spirit": 8.8
+    },
+    {
+        "mass_density": 0.999,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 1.0004,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9992,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99974,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99551,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99655,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9949,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99625,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99574,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99633,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99624,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9948,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99356,
+        "spirit": 12.9
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9975,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99599,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9957,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99625,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99702,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9934,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.99786,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99616,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.99638,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 1.0022,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99494,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99686,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99718,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99575,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99574,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9951,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.99639,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.9975,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99471,
+        "spirit": 12.3
+    },
+    {
+        "mass_density": 0.99774,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99631,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 14.9
+    },
+    {
+        "mass_density": 0.99588,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99552,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9952,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99664,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 1.0006,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99716,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9937,
+        "spirit": 13.0
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99736,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99688,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9975,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99745,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9978,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99599,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9992,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99692,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99586,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99414,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.99557,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99084,
+        "spirit": 14.0
+    },
+    {
+        "mass_density": 0.99495,
+        "spirit": 11.5
+    },
+    {
+        "mass_density": 0.9985,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99682,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9902,
+        "spirit": 13.6
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9921,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9967,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99576,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9997,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99656,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9954,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99522,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9983,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99604,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9936,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.99675,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99454,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99745,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9942,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99659,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.99376,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99292,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.99572,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99418,
+        "spirit": 12.9
+    },
+    {
+        "mass_density": 0.99473,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.99551,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.00315,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99632,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99551,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9933,
+        "spirit": 13.6
+    },
+    {
+        "mass_density": 0.99817,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99734,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.99568,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99646,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99655,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99448,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99472,
+        "spirit": 10.75
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99478,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99434,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 0.99683,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99587,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99566,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.99592,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99585,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.999,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99416,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9954,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9955,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99728,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9983,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99498,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.99705,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99495,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99685,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99489,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99589,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99676,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99708,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9993,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99636,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.9959,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.996,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99546,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99546,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99549,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99724,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99817,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99666,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99397,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9942,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99426,
+        "spirit": 12.7
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.99534,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99708,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99828,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99486,
+        "spirit": 12.6
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99714,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99612,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9944,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.99533,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.9962,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99538,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.9969,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9947,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99451,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9953,
+        "spirit": 12.2
+    },
+    {
+        "mass_density": 0.99592,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.99464,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9937,
+        "spirit": 13.0
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 10.2
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99444,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99546,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99727,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99708,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99732,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99592,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 1.0,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 12.7
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.9977,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99492,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99676,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9982,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99425,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99258,
+        "spirit": 12.9
+    },
+    {
+        "mass_density": 0.99638,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99525,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9988,
+        "spirit": 13.4
+    },
+    {
+        "mass_density": 0.9924,
+        "spirit": 12.9
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.9981,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99655,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.99666,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99526,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.99438,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99652,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99458,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9984,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99498,
+        "spirit": 12.1
+    },
+    {
+        "mass_density": 0.9987,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.99726,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99594,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99494,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99632,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99568,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.99685,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99746,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9991,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.99392,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99512,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 12.8
+    },
+    {
+        "mass_density": 1.0004,
+        "spirit": 9.0
+    },
+    {
+        "mass_density": 0.9947,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9976,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 1.001,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9953,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.99498,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99645,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99892,
+        "spirit": 11.0
+    },
+    {
+        "mass_density": 0.99745,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.0002,
+        "spirit": 11.7
+    },
+    {
+        "mass_density": 0.9966,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99476,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.99444,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.99724,
+        "spirit": 10.4
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99552,
+        "spirit": 11.9
+    },
+    {
+        "mass_density": 0.99562,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 13.4
+    },
+    {
+        "mass_density": 0.99772,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99468,
+        "spirit": 12.0
+    },
+    {
+        "mass_density": 0.997,
+        "spirit": 11.8
+    },
+    {
+        "mass_density": 0.9974,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 1.0032,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9986,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.9958,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 10.3
+    },
+    {
+        "mass_density": 0.99652,
+        "spirit": 10.9
+    },
+    {
+        "mass_density": 0.99735,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99632,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.99344,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 0.99733,
+        "spirit": 9.2
+    },
+    {
+        "mass_density": 0.99624,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99392,
+        "spirit": 12.4
+    },
+    {
+        "mass_density": 1.001,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.9964,
+        "spirit": 10.5
+    },
+    {
+        "mass_density": 0.99569,
+        "spirit": 9.5
+    },
+    {
+        "mass_density": 0.9972,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9973,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.995,
+        "spirit": 10.7
+    },
+    {
+        "mass_density": 0.9979,
+        "spirit": 9.1
+    },
+    {
+        "mass_density": 0.99387,
+        "spirit": 12.6
+    },
+    {
+        "mass_density": 0.9954,
+        "spirit": 11.3
+    },
+    {
+        "mass_density": 0.9998,
+        "spirit": 9.4
+    },
+    {
+        "mass_density": 0.99528,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.99697,
+        "spirit": 10.1
+    },
+    {
+        "mass_density": 0.9956,
+        "spirit": 11.4
+    },
+    {
+        "mass_density": 0.99593,
+        "spirit": 10.0
+    },
+    {
+        "mass_density": 0.99748,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99562,
+        "spirit": 10.8
+    },
+    {
+        "mass_density": 0.9971,
+        "spirit": 9.3
+    },
+    {
+        "mass_density": 0.99672,
+        "spirit": 11.2
+    },
+    {
+        "mass_density": 0.998,
+        "spirit": 9.7
+    },
+    {
+        "mass_density": 0.99622,
+        "spirit": 9.9
+    },
+    {
+        "mass_density": 0.9968,
+        "spirit": 12.5
+    },
+    {
+        "mass_density": 0.9965,
+        "spirit": 9.6
+    },
+    {
+        "mass_density": 0.9996,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.99656,
+        "spirit": 9.8
+    },
+    {
+        "mass_density": 0.99633,
+        "spirit": 10.6
+    },
+    {
+        "mass_density": 0.9963,
+        "spirit": 11.6
+    },
+    {
+        "mass_density": 0.9994,
+        "spirit": 11.1
+    },
+    {
+        "mass_density": 0.9961,
+        "spirit": 9.5
+    }
+]
